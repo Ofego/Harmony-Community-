@@ -1,0 +1,87 @@
+.Logo-section {
+    margin-top: 540px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    font-family: arial;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.Header {
+    text-align: center;
+    font-weight: 600;
+    font-size: 40px;
+    background: -webkit-linear-gradient(#00AEE9, #69FABD);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.sp-logo {
+    height: 40px;
+    margin-right: 40px;
+}
+
+.main-logo {
+    background: -webkit-linear-gradient(#00AEE9, #69FABD);
+    padding-left: 64px;
+}
+
+.logo-first {
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+
+.logo-second {
+    margin-bottom: 16px;
+}
+
+.Socials {
+    margin-top: 900px;
+}
+
+.social-H {
+    text-align: center;
+    font-weight: 600;
+    font-size: 40px;
+    background: -webkit-linear-gradient(#00AEE9, #69fabd);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.sm-logo {
+    display: flex;
+    width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.logo-text {
+    color: white;
+    font-size: 16px;
+    margin-right: 96px;
+    display: flex;
+    align-items: center;
+}
+
+.logo-text1 {
+    color: white;
+    font-size: 16px;
+    margin-right: 0px;
+    display: flex;
+    align-items: center;
+}
+
+.logo-img {
+    height: 24px;
+    margin-right: 16px;
+}
+
+.sm-logo1 {
+     display: flex;
+    width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+}

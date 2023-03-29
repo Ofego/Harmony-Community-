@@ -1,0 +1,42 @@
+.blog {
+    background-color: #00ADE8;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 24px;
+    width: 1000px;
+    margin-top: 200px;
+    font-family: arial;
+    border-radius: 5px;
+}
+
+.blog-text {
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 16px;
+    width: 661px;
+    line-height: 24px;
+    color: rgb(214, 214, 214);
+}
+
+.blog-header {
+    font-size: 40px;
+    font-weight: 700;
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.blog-button {
+    background-color: #101042;
+    padding: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    padding-right: 32px;
+    padding-left: 32px;
+    border-radius: 5px;
+    border-width: 0;
+    border-style: 0;
+    margin-top: 24px;
+}

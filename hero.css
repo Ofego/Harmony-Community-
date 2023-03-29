@@ -1,0 +1,179 @@
+p {
+    font-family: arial;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #101042;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    box-shadow: 0px 8px 14px rgba(17, 17, 17, 0.08);
+    z-index: 100;
+}
+
+.hrm-logo {
+height: 57.95px;
+width: 200px;
+}
+
+.nav-discord,
+.nav-discord1,
+.nav-discord2 {
+    width: 169.92px;
+    height: 44px;
+    background:#00AEE9;
+    font-size: 16px;
+    line-height: 27.28px;
+    font-weight: 600;
+    font-family: arial;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px;
+    border-radius: 5px;
+    border-width: 0px;
+    color: #101042;
+}
+
+.nav-discord:hover {
+    opacity: 0.8;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.nav-discord1:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.nav-discord1 {
+    transition: all 0.3s;
+}
+
+.nav-discord2:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.nav-discord2 {
+    transition: all 0.3s;
+}
+
+.discord-logo {
+    height: 19.92px;
+    width: 24px;
+}
+
+.nav-text {
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: arial;
+    width: 180px;
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.blog-nav:after {
+    content: "";
+    position: absolute;
+    transition: 0.3s;
+    height: 1px;
+    left: 0px;
+    bottom: 0px;
+    width: 0;
+    background-color: #00AEE9;
+}
+
+.com-nav:after {
+    content: "";
+    position: absolute;
+    transition: 0.3s;
+    height: 1px;
+    left: 74px;
+    bottom: 0px;
+    width: 0;
+    background-color: #00AEE9;
+}
+
+.nav-text {
+   position: relative;
+}
+
+.blog-nav:hover:after {
+    width: 30%;
+}
+
+.com-nav:hover:after {
+    width: 60%;
+}
+
+.blog-nav:hover {
+    color: #00AEE9;
+    cursor: pointer;
+}
+
+
+.com-nav:hover{
+    color: #00AEE9;
+    cursor: pointer;
+}
+
+.hero {
+    margin-top: 121px;
+    color: white;
+    text-align: center;
+}
+
+.hero-div {
+    color: rgba(0, 174, 233, 1);
+}
+
+.hero-text {
+    font-size: 64px;
+    width: 934px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hero-sub {
+    font-size: 20px;
+    width: 504px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 24px;
+    font-weight: 300;
+}
+
+.hero-button {
+    margin-left: auto;
+    margin-right: auto;
+    width: 285px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 48px;
+}
+
+.nav-discord1 {
+    width: 125px;
+    display: block;
+    text-align: center;
+}
+
+.nav-discord2 {
+    width: 120px;
+    background: #101042;
+    border-width: 2px;
+    border-color: rgba(0, 174, 233, 1);
+    border-style: solid;
+    color:  rgba(0, 174, 233, 1);
+    display: block;
+    text-align: center;
+}

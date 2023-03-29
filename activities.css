@@ -1,0 +1,73 @@
+.main-activities{
+    margin-top: 96px;
+    color: rgba(0, 174, 233, 1);
+    text-align: center;
+    font-family: Arial;
+}
+
+.activities-option {
+    display: flex;
+    text-align: left;
+    color: white;
+    margin-top: 48px;
+    width: 1037px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ts-header {
+    color: white;
+    font-weight: 700;
+}
+
+.twitter-space,
+.movie-night,
+.game-night {
+    width: 320px;
+    line-height: 30px;
+    height: 286px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgba(0, 174, 233, 1);
+    border-radius: 5px;
+    padding-left: 16px;
+}
+
+.movie-night {
+    margin-right: 16px;
+    margin-left: 16px;
+}
+
+.main-header {
+    font-size: 32px;
+}
+
+.activities-body {
+    height: 150px;
+    color: rgb(214, 214, 214);
+}
+
+.twitter-button {
+    background-color: rgba(0, 174, 233, 1);
+    color: #101042;
+    font-weight: 600;
+    padding-left: 8px;
+    display: flex;
+    align-items: center;
+    width: 124px;
+    height: 38px;
+    border-radius: 5px;
+    margin-top: 24px;
+}
+
+.game-logo
+ {
+    height: 20px;
+    margin-left: 16px;
+}
+
+.twt-logo {
+    height: 16px;
+    width: 18.39px;
+    margin-left: 16px;
+}

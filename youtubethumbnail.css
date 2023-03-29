@@ -1,0 +1,61 @@
+.Youtube-Thumbnail {
+    background-color:rgba(220, 245, 255, 1);
+    margin-top: 120px;
+    width: 100%;
+    left: 0;
+    right: 0;
+    position: absolute;
+    padding-top: 16px;
+    height: 260px;
+    font-family: arial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Yt-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0;
+}
+
+.Yt-lecture {
+    height: 200px;
+}
+
+.Youtb-major {
+    position: relative;
+    width: 200px;
+    margin-bottom: 0;
+    margin-right: 64px;
+}
+
+.Ytb-logo {
+    position: absolute;
+    height: 24px;
+    left: 90px;
+    top: 88px;
+}
+
+.time {
+    position: absolute;
+    background-color: #00AEE9;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: arial;
+    top: 158px;
+    right: 8px;
+    padding: 4px;
+    border-width: none;
+    border-radius: 3px;
+}
+
+.Para {
+    width: 160px;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 8px;
+    line-height: 18px;
+    color: #101042;
+}

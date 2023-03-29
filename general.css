@@ -1,0 +1,46 @@
+body {
+    background: rgba(16, 16, 66, 1);
+    height: 4600px;
+    font-family: arial;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.principle {
+    background-color: rgb(220, 245, 255);
+    margin-top: 120px;
+    height: 120px;
+    padding-top: 24px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.principle-head {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 0px;
+    margin-top: 0;
+}
+
+.principle-body {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.location-image {
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 485px;
+    width: 100%;
+}
+
+.image-box {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-top: auto;
+}
+

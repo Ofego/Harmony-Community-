@@ -1,0 +1,68 @@
+.governance {
+    color: white;
+    margin-top: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 30px;
+}
+
+.governance-head {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 1.5;
+    margin-bottom: 0px;
+}
+
+.gov-head {
+    color: rgba(0, 174, 233, 1);
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.process-main {
+    display: flex;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 48px;
+    line-height: 1.5;
+}
+
+.amendment,
+.ratification,
+.dao-business {
+    width: 420px;
+    color: rgb(214, 214, 214);
+    height: 400px;
+}
+
+.p-header {
+    width: 200px;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+}
+
+.calendar-logo {
+    height: 24px;
+    margin-right: 16px;
+}
+
+.forward-logo {
+    height: 20px;
+    margin-left: 303px;
+}
+
+.main-calendar {
+    margin-top: 56px;
+    display: flex;
+    align-items: center;
+}
+
+.process-info {
+    height: 120px;
+    line-height: 30px;
+}
